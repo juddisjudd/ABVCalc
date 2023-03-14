@@ -1,0 +1,17 @@
+D:\C#\ABVCalc\bin\Release\net6.0-windows\win-x64\ABVCalc.exe
+D:\C#\ABVCalc\bin\Release\net6.0-windows\win-x64\ABVCalc.deps.json
+D:\C#\ABVCalc\bin\Release\net6.0-windows\win-x64\ABVCalc.runtimeconfig.json
+D:\C#\ABVCalc\bin\Release\net6.0-windows\win-x64\ABVCalc.dll
+D:\C#\ABVCalc\bin\Release\net6.0-windows\win-x64\ABVCalc.pdb
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.csproj.AssemblyReference.cache
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.Form1.resources
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.csproj.GenerateResource.cache
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.AssemblyInfoInputs.cache
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.AssemblyInfo.cs
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.csproj.CoreCompileInputs.cache
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.dll
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\refint\ABVCalc.dll
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.pdb
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ABVCalc.genruntimeconfig.cache
+D:\C#\ABVCalc\obj\Release\net6.0-windows\win-x64\ref\ABVCalc.dll

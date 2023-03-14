@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2J4ltMw/XJlJdkTah4ZykPbqxFj0D/Qm3FxFwWwb/nqnNLn1VH6nCNZ22wh/LTJitM5FQOCvxkWMpWj4UURfw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ABVCalc\\ABVCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.11\\microsoft.netcore.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
